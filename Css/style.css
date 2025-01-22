@@ -311,10 +311,6 @@ img {
   margin-bottom: var(--margin-bottom-0-2);
 }
 
-.home-scroll {
-  /* display: none; */
-}
-
 .home-scroll-button {
   color: var(--first-color);
   transition: 0.3s;
@@ -806,9 +802,7 @@ img {
   flex-direction: column;
   row-gap: 1.5rem;
 }
-.footer-link {
-  /* hii  */
-}
+
 .footer-link:hover {
   color: var(--first-color-lighter);
 }
